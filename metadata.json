@@ -1,0 +1,6 @@
+{
+  "name": "Friday AI - Next-Gen Autonomous Assistant",
+  "description": "An all-in-one AI assistant featuring contextual reasoning, smart memory, live web search, background execution, malware cleanup, 3D graphics engine, multimodal generation, and selectable female voices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
